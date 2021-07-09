@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 1500px;
+    height: 80px;
+
+    background-color: rgb(150, 150, 150);
+}
+.houzing{display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 45px;
+    padding: 0px 150px;
+    
+}
+.nav-menu{
+    display: flex;
+    margin-right: 60px;
+
+}
+.home{
+    margin-right: 15px ;
+}
+.create{
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+.border{
+border: 2px solid red; 
+}

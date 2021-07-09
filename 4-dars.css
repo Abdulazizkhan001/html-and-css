@@ -1,0 +1,265 @@
+ *{color: white;}
+ body{
+     padding: 50px 300px;
+     background-color: #20243F;
+ }
+ .main {
+  display: flex;
+ flex-direction: column; 
+ 
+}
+.navbar{
+    display: flex;
+    background-color: #394166;
+    height: 60px;
+    align-items: center;
+    padding: 0px 40px;
+    margin-bottom: 10px;
+    
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px ;
+}
+.title{
+    padding-left :5px ;
+   
+}
+.last{
+    display: flex;
+    margin-left: auto;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.me{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right:10px ;
+    
+}
+.content{
+    display: flex;
+}
+.con{
+    flex: 1;
+    flex-direction: row;
+  
+}
+.con2{
+    margin: 0px 10px;
+}
+.past{
+    margin-top: 10px;
+}
+.concol{
+    background-color: #394166;
+    padding-right: 20px;
+}
+.childcon{
+    background-color: #394166;
+}
+.menu{
+    display: flex;
+    background-color:#03d4db ;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+.messaagecon{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-bottom: 2px;
+     
+}
+.message{
+    display: flex;
+    margin-left: 20px;
+    margin-right: auto;
+}
+.number{
+    display: flex;
+    background-color: #6d779b;
+    width: 25px;
+    justify-content: center;
+    border-radius: 30%;
+}
+.os{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mar1{
+    margin-bottom: 0px;
+}
+.mar{
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+.krug{
+    margin: auto;
+    width: 90px;
+    height: 90px;
+    background: #394166;
+    border: 30px solid #03d4db;
+    border-radius: 50%;
+}
+.icon{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.img1{
+    display: flex;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.name{
+    display: flex;
+    margin-top: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.past1{
+    display: flex;
+    height: 40px;
+}
+.nn{
+    display: flex;
+    margin-bottom: 40px;
+}
+.numb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+   
+    
+}
+.mm{
+    margin-left: 3px;
+}
+.numb0{
+
+border-top:3px solid #ffdf8f;
+}
+.numb1{
+    border-top: 3px solid #71ccee;
+    border-left: 2px solid #20243F;
+    border-right: 2px solid #20243F ;
+}
+.numb2{
+    border-top: 3px solid #eb21b5;
+}
+.pagoda{
+    background-color: #e4193b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cluj{
+    display: flex;
+    padding-left: 10px;
+}
+.cloud{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 0px;
+    
+}
+.pcloud{
+    display: flex;
+     justify-content: center;
+    font-size: 60px;
+    margin-right: 45px;
+    margin-top: 0px;
+    
+}
+.pasts{
+    background: #E84761;
+}
+.join{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+.fri{
+    display: flex;
+   margin-left: 70px;
+   padding-top: 50px;
+  
+}
+.gmail{
+    display: flex;
+    
+    align-items: center;
+    background-color:#6d779b ;
+    margin: 10px 10px;
+    padding: 0px 5px;
+    height: 30px;
+}
+.tekst{
+    margin-left:10px ;
+}
+.subs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#03d4db ;
+    height: 40px;
+    margin: 20px 60px;
+    border-radius: 5px;    
+}
+.join1 {
+    height:200px;}
+
+.sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#e4193b ;
+    height: 40px;
+    margin: 20px 60px;
+    border-radius: 5px;
+
+}
+.for{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.face
+{
+background-color: rgb(64, 64, 248);
+
+}
+.sini{
+    margin-left:5px ;
+}
+.oss{
+    
+    padding-bottom: 100px;
+}
+
+
+
+
+

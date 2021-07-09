@@ -1,0 +1,122 @@
+*{
+    /* border: 3px solid blue; */
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background:linear-gradient(to right top, #ffff4b,#FF295F,#FD1191, #863186);
+    height: 700px;
+    position: relative;
+}
+.flex{
+display: flex;
+flex: 1;
+align-items: center;
+
+
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding-top: 10px;
+}
+.menu{
+    padding-left: 30px;
+}
+
+.home{
+    justify-content: center;
+    margin-left: 10px;
+    text-decoration: none;
+    
+    
+    
+}
+.home:hover
+{
+    color: transparent;
+}
+.gradient{
+
+    padding-left: 30px; 
+    font-size: 30px;
+    font-weight: bold;
+}
+.icon{
+    font-size: 50px;
+}
+.designs{
+    
+    height: 300px;
+    width: 600px;
+    margin-left: 70px;
+    margin-top: 120px;
+}
+.design{
+    font-size: 70px;
+    font-weight: bold;
+   
+}
+.formal{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.lorem{
+    margin-bottom: 40px;
+    margin-left: 8px;
+    
+}
+.lets{
+    display: flex;
+    
+    width: 120px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+   border-radius: 25px;
+    background:linear-gradient(to left bottom, #FFA46F,#ea0972);
+    outline: none;
+}
+.content{
+    display: flex;
+   
+
+}
+.photo{
+   
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.page{
+   
+    display: flex;
+    position: absolute;
+    /* right: 50%; */
+    bottom: 10px;
+}
+.h2{margin:0px 20px ;
+
+}
+.share{
+    display: flex;
+    position: absolute;
+    right: 2%;
+    bottom: 3%;
+    font-size: 20px;
+}
+.search{
+    background:linear-gradient(to left bottom, #FFA46F,#ea0972);
+    outline: none;
+}
+
+.line{
+    width: 200px;
+    border: 1px solid black;
+    background-color: black;
+}

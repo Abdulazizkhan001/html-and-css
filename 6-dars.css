@@ -1,0 +1,232 @@
+*{
+    color: white;
+    
+}
+
+body{
+    height: 600px;
+    width: 100%;
+}
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color: #222222;
+   
+    
+}
+.navbar{
+    border-radius: 2px;
+    display: flex;
+    background-color: #1F241D;
+    /* flex: 1; */
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+  margin: 0px 100px;
+}
+.hello{
+    padding-right: 25px;
+}
+.title{
+   
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    
+}
+.search{
+    margin-left: auto;
+}
+.hel{
+    display: flex;
+    margin: auto; 
+}
+.h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding: 0px 5px;
+    background-color: #F47555;
+}
+.h1{
+    margin-left: 15px;
+    background-color:#F47555 ;
+    padding: 3px 5px;
+}
+.rossalina{
+    
+    left: 27%;
+    top: 14%;
+    font-size: 50px;
+    position: absolute;
+    
+    
+    
+    
+}
+.content{
+    
+    position: relative;
+    height: 580px;
+    
+}
+
+.photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left:35%;
+    bottom: 0%;
+    
+}
+img{
+    width: 380px;
+    height: 550px;
+}
+
+.date{
+    position: absolute;
+    bottom: 40PX;
+    left: 20px;
+
+}
+.icon{
+    width: 80px;
+    height: 80px;
+   position: absolute;
+    right: 450px;
+    top: 100px;
+}
+.icon1{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #02F4B7;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.icon2{
+width: 0px; 
+height: 0px;
+border-left: 30px solid transparent;
+border-right: 30px solid transparent;
+border-bottom: 35px solid #4c474b;
+position: absolute;
+
+left: 10px;
+top: 15px;
+transform: rotate(-45deg);
+}
+.it{
+    position: absolute;
+    right: 200px;
+    top: 200px;
+}
+.base{
+    
+    margin-bottom: 20px;
+}
+.develope{
+    color:#F47555;
+    font-size: 20px;
+}
+.based{
+    font-size: 40px;
+}
+.how{
+    color:#F47555;
+}
+.final{
+    display: flex;
+    height: 350px;
+    margin: 0px 0px 0px 400px;
+}
+.motivation{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.you{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.type{
+    margin: 140px 130px  ;
+}
+.any{
+    font-size: 40px;
+    margin-bottom: 5px; 
+}
+
+.mail{
+    display: flex;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.iconca{
+    margin-left: 20px;
+}
+.info{
+    font-size: 20px;
+}
+.date::first-letter{
+    background-color: #F47555;
+}
+@media screen and ( max-width:600px ) 
+{ img{
+    
+    width: 180px ;
+    height: 260px;
+    
+}
+.it{
+    right: 0px;
+}
+.develope{
+    font-size: 10px;
+}
+.based{
+    font-size: 20px;
+} 
+.rossalina{
+    font-size: 25px;
+    /* top: 30%; */
+}
+.photo{
+    left: 20%;
+    
+}
+.icon{
+    right: 100px;
+}
+.final{
+    margin: auto;
+}
+.any{
+    font-size: 20px;
+}
+.you{font-size: 15px;}
+.navbar{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    height: 350px;
+}
+.h{
+    padding: 0px;
+}
+.title{
+    margin-right: 0px;
+}
+.hello{
+    padding-right: 5px;
+}
+.type{
+    width: 100px;
+    margin-left: 0px;
+}
+}
